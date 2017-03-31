@@ -1,4 +1,5 @@
 # SDcardScanner
+<<<<<<< HEAD
 目前来看，基本解决了部分乱七八糟的厂商SD卡路径乱放导致无法读取的问题。可以看这个文章
 http://www.androidcycle.com/?p=81
 
@@ -119,3 +120,6 @@ public static ArrayList<StorageBean> getStorageData(Context pContext) {
 
 
 
+=======
+找出手机所有的存储地址，（手机地址，外置存储卡地址，内置存储卡地址）（转载他人）
+>>>>>>> 8e75e4521b7cfa0549d710ee33531e6aa930c840
